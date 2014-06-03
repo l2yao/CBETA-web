@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tripitaka.cbeta.org	TRUE	/	FALSE	1999999999	__utmmobile	0x8ddbe91d63289029
+.tripitaka.cbeta.org	TRUE	/	FALSE	1999999999	SESS619d80f1274dd250dfe7d969bfc0801e	2e5238e56f4d6683eb7454f24de8f708
+
